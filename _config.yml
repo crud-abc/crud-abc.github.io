@@ -6,7 +6,7 @@ url: "https://crudabc.org" # the base hostname & protocol for your site
 theme_settings:
   # Meta
   title: CRUD-ABC
-  avatar: crudabc-logo-256.png
+  avatar:
   gravatar: # Email MD5 hash
   description: "Comunidade sobre Desenvolvimento Back End no Grande ABC Paulista" # used by search engines
 
