@@ -8,8 +8,22 @@
   text-align: center;
   color: $header-desc-text-color;
 
-  img {
-    max-width: 300px;
+  &-link {
+    color: $header-link-color;
+  }
+
+  &-title {
+    margin: .1em;
+    font-size: 2em;
+
+      @media (min-width: $break-medium) {
+        margin: .5em;
+        font-size: 2.6em;
+      }
+  }
+
+  &-subtitle {
+
   }
 }
 .call-out p:last-child {

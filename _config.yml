@@ -12,7 +12,7 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-     <a href="/"><img src="img/crud-abc.png" alt="CRUD-ABC Logo" /></a>
+     <a href="/" class="call-out-link"><h2 class="call-out-title">CRUD-ABC</h2><p class="call-out-subtitle">Sua comunidade sobre Desenvolvimento Back End no Grande ABC</p></a>
   header_text_feature_image:
   footer_text: >
    Provido com <a href="http://jekyllrb.com">Jekyll</a> por um tema modificado, vindo do: <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
