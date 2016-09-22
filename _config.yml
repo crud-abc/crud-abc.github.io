@@ -1,0 +1,72 @@
+# SITE CONFIGURATION
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://crudabc.org" # the base hostname & protocol for your site
+
+# THEME-SPECIFIC CONFIGURATION
+theme_settings:
+  # Meta
+  title: CRUD-ABC
+  avatar: crudabc-logo-256.png
+  gravatar: # Email MD5 hash
+  description: "Comunidade sobre Desenvolvimento Back End no Grande ABC Paulista" # used by search engines
+
+  # Header and footer text
+  header_text: >
+     <a href="/"><img src="img/crud-abc.png" alt="CRUD-ABC Logo" /></a>
+  header_text_feature_image:
+  footer_text: >
+   Provido com <a href="http://jekyllrb.com">Jekyll</a> por um tema modificado, vindo do: <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
+
+  # Icons
+  rss: true
+  email_address: # Full email address, e.g. "sam@example.com"
+  behance:
+  bitbucket:
+  dribbble:
+  facebook:
+  flickr:
+  github: "crud-abc"
+  google_plus:
+  instagram:
+  linkedin:  # Full URL
+  pinterest:
+  reddit:
+  soundcloud:
+  stack_exchange:  # Full URL
+  steam:
+  tumblr:
+  twitter:
+  wordpress:
+  youtube:
+
+  # Scripts
+  google_analytics: # Tracking ID, e.g. "UA-000000-01"
+  disqus_shortname:
+  katex: true # Enable if using math markup
+
+  # Localization strings
+  str_follow_on: "Siga-nos no"
+  str_rss_follow: "Siga o RSS feed"
+  str_email: "Email"
+  str_next: "Próximo"
+  str_prev: "Anterior"
+  str_continue_reading: "Ver mais..."
+
+  # Colours, typography and padding
+  # Open the "_sass > base" folder, and open "_variables.scss"
+  google_fonts: "Source+Sans+Pro:400,700,700italic,400italic"
+
+  # Post navigation
+  post_navigation: true
+
+# PAGINATION
+paginate: 5
+paginate_path: "blog/pagina:num"
+
+# BUILD SETTINGS
+markdown: kramdown
+highlighter: rouge
+sass:
+  sass_dir: _sass
+  style: :compressed
+gems: [jekyll-paginate]
