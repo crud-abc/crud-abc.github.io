@@ -51,6 +51,7 @@ theme_settings:
   str_next: "Próximo"
   str_prev: "Anterior"
   str_continue_reading: "Ver mais..."
+  timezone: America/Sao_Paulo
 
   # Colours, typography and padding
   # Open the "_sass > base" folder, and open "_variables.scss"

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Sobre
+permalink: /sobre-o-crud-abc/
 feature-img: "img/sample_feature_img_2.png"
 ---
 
