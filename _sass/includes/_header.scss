@@ -4,6 +4,7 @@
   display: inline-block;
   float: left;
   width: 100%;
+  padding: 10px;
 
   @media (min-width: $break-medium) {
     padding: 1% 19%;
@@ -24,7 +25,6 @@
 
   .branding {
     display: inline-block;
-    padding: 5px;
   }
 
   .site-title {
@@ -58,11 +58,10 @@
       }
     }
 
-    @media (max-width: $break-large) {
+    @media (min-width: $break-large) {
       ul {
         display: inline-block;
         float: left;
-        padding-top: $padding-small;
         text-align: left;
         width: 100%;
       }
