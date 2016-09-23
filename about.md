@@ -2,11 +2,14 @@
 layout: page
 title: Sobre
 permalink: /sobre-o-crud-abc/
-feature-img: "img/sample_feature_img_2.png"
 ---
 
-Type Theme is a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
+O CRUD-ABC é uma comunidade sobre Desenvolvimento Back End no Grande ABC.
 
-Head over to the [theme's documentation](https://rohanchandra.github.io/project/type/) for much more information about Type Theme or to install this theme on your own Jekyll site.
+Falamos sobre tudo o que envolve Desenvolvimento de Software na camada de Back End, desde a linguagem de programação, como Python, JavaScript (NodeJS), PHP, Java, C#, Ruby, até a maneira de se entregar um  JSON para ser consumido na Web ou Mineração de Dados.
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
+Somos abertos para todos que quiserem participar dos grupos, não somente para Back Ender's, mas para Front End's, Devs Android, Gerentes de Projeto ou qualquer outra profissão que quiser conversar sobre programação.
+
+Os encontros podem acontecer mensalmente caso tenhamos assuntos e local para discutir e acontecem na região do Grande ABC (São Bernardo do Campo, Santo André, São Caetano, Diadema, etc).
+
+Caso você queira participar ainda mais da nossa comunidade entre no Slack da comunidade [ABC-Dev](https://github.com/abc-dev/slack). Lá nós conversamos sobre os encontros no canal **#nossos-eventos** e ajudamos a solucionar problemas sobre Back End (geral) no canal **#crud-abc**.
