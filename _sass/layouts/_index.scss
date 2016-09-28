@@ -32,7 +32,12 @@
 // Post listing
 .posts {
   .post-teaser {
-    @extend %padding-regular;
+    padding: 10px;
+
+    @media (min-width: 768px) {
+      padding: $padding-x-small $padding-x-small * 7;
+    }
+
     width: 100%;
     margin-bottom: 0;
     display: inline-block;

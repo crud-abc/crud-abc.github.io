@@ -1,6 +1,7 @@
 # SITE CONFIGURATION
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://crudabc.org" # the base hostname & protocol for your site
+permalink: /:title/
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
@@ -41,7 +42,7 @@ theme_settings:
 
   # Scripts
   google_analytics: # Tracking ID, e.g. "UA-000000-01"
-  disqus_shortname:
+  disqus_shortname: crudabc
   katex: true # Enable if using math markup
 
   # Localization strings
