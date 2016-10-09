@@ -6,14 +6,14 @@ permalink: /:title/
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: CRUD-ABC
+  title: CRUD-ABC | Um Meetup sobre Desenvolvimento Back End
   avatar:
   gravatar: # Email MD5 hash
   description: "Meetup sobre Desenvolvimento Back End no Grande ABC Paulista" # used by search engines
 
   # Header and footer text
   header_text: >
-     <a href="/" class="call-out-link"><h2 class="call-out-title">CRUD-ABC</h2><p class="call-out-subtitle">Um Meetup sobre Desenvolvimento Back End no Grande ABC</p></a>
+     <a href="/" class="call-out-link"><h2 class="call-out-title">CRUD-ABC</h2><p class="call-out-subtitle">Um Meetup sobre Desenvolvimento Back End</p></a>
   header_text_feature_image:
   footer_text: >
    Provido com <a href="http://jekyllrb.com">Jekyll</a> , baseado no: <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
