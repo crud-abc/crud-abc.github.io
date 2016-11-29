@@ -58,7 +58,7 @@ Após o Meetup vamos almoçar juntos (quem quiser) e até podemos conversar mais
 
 ## Slides
 
--- em breve --
+[Neste link](http://bit.ly/crud-2)
 
 ## Dúvidas, dicas, conselhos?
 
