@@ -48,11 +48,21 @@ Vamos abordar os seguintes tópicos:
 
 ## Como se inscrever?
 
-Acesse [esse link](https://www.eventick.com.br/docker-provisionamento-de-cont) e adicione seus dados.
+Por aqui:
+
+<div><style>.ev-embed{ width:100%;}</style>
+        <script src='https://s3.amazonaws.com/embed-evt/iframeResizer.min.js'></script>
+        <iframe class='ev-embed' src='https://www.eventick.com.br/e/docker-provisionamento-de-cont' scrolling='no'></iframe>
+        Alternativamente, você pode adquirir seu ticket diretamente na <a href='https://www.eventick.com.br/docker-provisionamento-de-cont' target='_blank'>página do Eventick</a>
+        <script>iFrameResize({checkOrigin: false, heightCalculationMethod: 'documentElementScroll'});</script></div>
+
+Ou acesse [esse link](https://www.eventick.com.br/docker-provisionamento-de-cont) e adicione seus dados.
 
 ## After Meetup
 
-Após o Meetup vamos almoçar juntos (quem quiser) e até podemos conversar mais sobre outros assuntos. ;D
+Após o Meetup vamos fazer uma confraternização com todos que estiverem os presentes para comemorar o final do ano. 
+
+O local ainda vai ser definido :D
 
 ## Slides
 
