@@ -52,11 +52,9 @@ Por aqui:
 
 <div><style>.ev-embed{ width:100%;}</style>
         <script src='https://s3.amazonaws.com/embed-evt/iframeResizer.min.js'></script>
-        <iframe class='ev-embed' src='https://www.eventick.com.br/e/docker-provisionamento-de-cont' scrolling='no'></iframe>
-        Alternativamente, você pode adquirir seu ticket diretamente na <a href='https://www.eventick.com.br/docker-provisionamento-de-cont' target='_blank'>página do Eventick</a>
+        <iframe style="border:none;" class='ev-embed' src='https://www.eventick.com.br/e/docker-provisionamento-de-cont' scrolling='no'></iframe>
+        Alternativamente, você pode adquirir seu ticket diretamente na <a href='https://www.eventick.com.br/docker-provisionamento-de-cont' target='_blank'>página do evento</a>
         <script>iFrameResize({checkOrigin: false, heightCalculationMethod: 'documentElementScroll'});</script></div>
-
-Ou acesse [esse link](https://www.eventick.com.br/docker-provisionamento-de-cont) e adicione seus dados.
 
 ## After Meetup
 
