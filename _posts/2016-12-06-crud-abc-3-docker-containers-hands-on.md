@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CRUD-ABC 3 - Docker: Hands on com provisionamento de containers
+title: CRUD-ABC 3 - Docker, Hands on com provisionamento de containers
 tag:
   - docker
   - containers
