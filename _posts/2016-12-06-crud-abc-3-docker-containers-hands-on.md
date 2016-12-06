@@ -58,9 +58,11 @@ Por aqui:
 
 ## After Meetup
 
-Após o Meetup vamos fazer uma confraternização com todos que estiverem os presentes para comemorar o final do ano. 
+O [ABC-Dev](https://www.facebook.com/abcdevelopers/) está planejando uma confraternização de fim de ano para reunir o pessoal de todos os grupos e que estão no nosso [Slack](https://github.com/abc-dev/slack).
 
-O local ainda vai ser definido :D
+Após o Meetup vamos nos encontrar em algum lugar que está sendo definido no canal `#confraternizacao` no Slack. Se você ainda não está lá, chega junto. Está perdendo muita conversa boa sobre desenvolvimento de software no geral.
+
+Bora lá?
 
 ## Slides
 
