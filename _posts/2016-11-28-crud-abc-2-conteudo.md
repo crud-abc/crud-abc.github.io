@@ -16,6 +16,10 @@ Lucas Santos: [@khaosdoctor](https://khaosdoctor.github.io)
 
 <script async class="speakerdeck-embed" data-id="31b19bb054e2412097990791e37d4289" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 
+# Vídeo da talk
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/o00w8qo4dos" frameborder="0" allowfullscreen></iframe></center>
+
 ## Anotações do bate papo
 
 **Links importantes para entender melhor sobre AWS**
