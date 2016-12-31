@@ -20,9 +20,22 @@ Erick Muller: [@ehriq](http://www.tekniq.com.br/)
 
 ## Anotações do bate papo
 
-**Links importantes para entender melhor sobre AWS**
+**Links importantes para entender melhor sobre Docker**
 
-Em breve colocaremos os arquivos e demais assets da apresentação.
+- Links para cico cursos de Docker completos:
+  - https://goo.gl/2YuUQz
+  - http://dockr.ly/2gpE6ax
+- Imagens interessantes:
+  - `php:7.1-apache` ou `php:7.1-fpm`
+  - `python:3`
+  - `ruby:latest`
+  - `microsoft/dotnet`
+  - `alpine:latest`
+  - `nginx:latest`
+  - `jenkins:latest`
+- [Dockerfile NGINX](http://pastebin.com/raw/ADHEWqE0)
+- [Docker compose mysql+php](http://pastebin.com/raw/Mdt0HUcD), [Dockerfile para o compose](http://pastebin.com/raw/u7dHdGyB)
+- [Lista Awesome com vários links de Docker](https://github.com/veggiemonk/awesome-docker)
 
 ## Agradecimentos especiais
 
