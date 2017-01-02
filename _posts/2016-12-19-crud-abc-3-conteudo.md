@@ -23,8 +23,8 @@ Erick Muller: [@ehriq](http://www.tekniq.com.br/)
 **Links importantes para entender melhor sobre Docker**
 
 - Links para cico cursos de Docker completos:
-  - https://goo.gl/2YuUQz
-  - http://dockr.ly/2gpE6ax
+  - [https://goo.gl/2YuUQz](https://goo.gl/2YuUQz)
+  - [http://dockr.ly/2gpE6ax](http://dockr.ly/2gpE6ax)
 - Imagens interessantes:
   - `php:7.1-apache` ou `php:7.1-fpm`
   - `python:3`
