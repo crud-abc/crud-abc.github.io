@@ -4,7 +4,10 @@ title: CRUD-ABC 4 - Primeiro CRUD do ano
 tag:
   - bate-papo
   - meetups
+feature-img: "img/round-banner.jpg"
 ---
+
+Fale sobre o que você quiser <!-- more -->
 
 Esse será o primeiro meetup do CRUD de 2017, vamos iniciar com um formato diferente.
 
