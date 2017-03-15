@@ -12,7 +12,10 @@ Conteúdo  do CRUD-ABC 3 - Docker Containers Hands On. <!--more-->
 
 ## Palestrante
 
-Erick Muller: [@ehriq](http://www.tekniq.com.br/)
+<div style="width:100%; height:100px; line-height:100px;">
+  <img src="http://gravatar.com/avatar/7255a11a33d90535c1db9d0336866187" style="border-radius:50%;vertical-align:middle;margin-right:10px;"> 
+  <span>Erick Muller (<a href="http://www.tekniq.com.br/">@ehriq</a>)</span>
+</div>
 
 ## Slides
 

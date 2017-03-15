@@ -22,7 +22,10 @@ Devido a este _hands on_ pedimos alguns requisitos básicos (se você quiser par
 
 ## Quem vai Falar?
 
-Erick Muller: [@ehriq](http://www.tekniq.com.br/)
+<div style="width:100%; height:100px; line-height:100px;">
+  <img src="http://gravatar.com/avatar/7255a11a33d90535c1db9d0336866187" style="border-radius:50%;vertical-align:middle;margin-right:10px;"> 
+  <span>Erick Muller (<a href="http://www.tekniq.com.br/">@ehriq</a>)</span>
+</div>
 
 ## Qual será o tema?
 
@@ -66,11 +69,11 @@ Bora lá?
 
 ## Slides
 
-_Em breve_ (calma cara!)
+[Aqui ;)](http://crudabc.org/crud-abc-3-conteudo/)
 
 ## Dúvidas, dicas, conselhos?
 
-Comenta aqui em baixo
+Comenta aqui em baixo!
 
 ## Quer nos ajudar?
 
