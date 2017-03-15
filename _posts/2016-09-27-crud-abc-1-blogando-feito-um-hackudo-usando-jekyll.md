@@ -12,7 +12,10 @@ Desde o que é Jekyll e como ele funciona até como hospedar no GitHub Pages e o
 
 ## Quem vai falar?
 
-William Oliveira: [@woliveiras](https://woliveiras.com.br)
+<div style="width:100%; height:100px; line-height:100px;">
+  <img src="http://gravatar.com/avatar/a203aead4fedebfd1af050c7d450045b" style="border-radius:50%;vertical-align:middle;margin-right:10px;"> 
+  <span>William Oliveira (<a href="https://woliveiras.com.br">@woliveiras</a>)</span>
+</div>
 
 ## Qual será o tema?
 

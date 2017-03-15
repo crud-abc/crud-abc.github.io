@@ -10,7 +10,10 @@ Conteúdo  do CRUD-ABC 2 - Lançando para a Nuvem com AWS. <!--more-->
 
 ## Palestrante
 
-Lucas Santos: [@khaosdoctor](https://khaosdoctor.github.io)
+<div style="width:100%; height:100px; line-height:100px;">
+  <img src="http://gravatar.com/avatar/0a8f40c6cc23fb6c8aad4de732c5abaf" style="border-radius:50%;vertical-align:middle;margin-right:10px;"> 
+  <span>Lucas Santos (<a href="http://lsantos.me">@khaosdoctor</a>)</span>
+</div>
 
 ## Slides
 
