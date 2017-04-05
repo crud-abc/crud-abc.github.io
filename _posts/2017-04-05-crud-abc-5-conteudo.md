@@ -6,6 +6,7 @@ tag:
   - containers
   - infraestrutura
   - devops
+feature-img: "img/docker-banner.png"
 ---
 
 Conteúdo do CRUD-ABC 5 - Docker Containers Hands On (Parte 2). <!--more-->
